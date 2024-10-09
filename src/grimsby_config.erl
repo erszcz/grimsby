@@ -23,4 +23,4 @@
 executable(Name) ->
     envy(#{caller => ?MODULE,
            names => [Name, ?FUNCTION_NAME],
-           default => filename:join(grimsby:priv_dir(), "grimsby")}).
+           default => filename:join([grimsby:priv_dir(), "crates", "grimsby", "grimsby"])}).

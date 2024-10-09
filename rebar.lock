@@ -1,0 +1,8 @@
+[{<<"any">>,
+  {git,"https://github.com/shortishly/any",
+       {ref,"4f477510226e22bed7ed855b2deb3a62113514a9"}},
+  0},
+ {<<"envy">>,
+  {git,"https://github.com/shortishly/envy",
+       {ref,"4538651f3ecb1a5aa3338638d05ed3f7d44c77e4"}},
+  0}].

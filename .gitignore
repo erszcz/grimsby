@@ -10,3 +10,5 @@
 /test/*.beam
 /doc
 !/doc/overview.edoc
+/_build
+/src/cargo.hrl
